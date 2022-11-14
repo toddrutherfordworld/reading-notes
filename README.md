@@ -1,5 +1,5 @@
 # reading-notes
-My reading journal for 102d45 (CodeFellows)
+_**My reading journal for 102d45 (CodeFellows)**_
 
 *Hi my name is Todd Rutherford and I love to program!*
 
