@@ -1,7 +1,7 @@
 # reading-notes
 _**My reading journal for 102d45 (CodeFellows)**_
 
-*Hi my name is Todd Rutherford and I love to program!*
+#*Hi my name is Todd Rutherford and I love to program!*#
 
 Growth mindset means to me...
 
@@ -11,4 +11,4 @@ Growth mindset means to me...
   2.  
   3. 
   
-  [Here's a link to my portfolio:] (https://toddrutherfordworld.github.io/reading-notes/)
+  Here's a link to my portfolio: [toddrutherfordworld https://toddrutherfordworld.github.io/reading-notes/]
