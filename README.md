@@ -11,4 +11,6 @@ Growth mindset means to me...
   2. Be very persistant in adversifying when coming across obstacles throughout the learning process.  
   3. Stay inspired and driven to achieve your learning goals and career goals.  
   
-Here's a link to my portfolio: [toddrutherfordworld https://toddrutherfordworld.github.io/reading-notes/]
+Here's a link to my portfolio: [toddrutherfordworld] (https://toddrutherfordworld.github.io/reading-notes/)
+
+[Class 1](Class1.md)
