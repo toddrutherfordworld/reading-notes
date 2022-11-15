@@ -13,4 +13,11 @@ Growth mindset means to me...
   
 Here's a link to my portfolio: [toddrutherfordworld] (https://toddrutherfordworld.github.io/reading-notes/)
 
-[Class 1](Class1.md)
+[Class 1]()
+
+
+
+
+
+
+[Class 2](https://github.com/toddrutherfordworld/reading-notes/blob/main/class2)
