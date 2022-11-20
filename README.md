@@ -20,3 +20,8 @@ Here's a link to my portfolio: [toddrutherfordworld] (https://toddrutherfordworl
 
 
 [Class 2](https://github.com/toddrutherfordworld/reading-notes/blob/main/class2)
+
+
+# Code 102 Reading Note
+
+# Code 201 Reading Notes
