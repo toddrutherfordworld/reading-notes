@@ -1,0 +1,46 @@
+#Programming with JavaScript
+
+#Functions are one of the fundamental building blocks in JavaScript. 
+A function in JavaScript is similar to a procedure—a set of statements that performs a task or calculates a value, 
+but for a procedure to qualify as a function, it should take some input and return an output where there is some obvious 
+relationship between the input and the output. To use a function, you must define it somewhere in the scope from which you wish to call it.
+
+Function expressions
+While the function declaration above is syntactically a statement, functions can also be created by a function expression.
+
+Such a function can be anonymous; it does not have to have a name. For example, the function square could have been defined as:
+
+const square = function (number) {
+  return number * number;
+}
+const x = square(4); // x gets the value 16
+However, a name can be provided with a function expression. Providing a name allows the function to refer to itself, and also makes it easier to identify the function in a debugger's stack traces:
+
+const factorial = function fac(n) {
+  return n < 2 ? 1 : n * fac(n - 1);
+}
+
+console.log(factorial(3))
+
+[Function expressions Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+
+
+
+## Things I want to know more about
+
++ Expressions and operators
++ Comparing strings and String objects
+  Note that strings constructed using new String() are objects. If you compare one of these with a string literal, 
+  the String object will be converted to a string literal and the contents will be compared. However, 
+  if both operands are String objects, then they are compared as objects and must reference the same object for comparison to succeed:
++ Assignment operators
++ Comparison operators
++ Arithmetic operators
++ Bitwise operators
++ Logical operators
++ BigInt operators
++ String operators
++ Conditional (ternary) operator
++ Comma operator
++ Unary operators
++ Relational operators
