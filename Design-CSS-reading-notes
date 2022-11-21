@@ -1,0 +1,26 @@
+##Design web pages with CSS
+
+As we have mentioned before, CSS is a language for specifying how documents are presented to users — how they are styled, laid out, etc.
+
+A document is usually a text file structured using a markup language — HTML is the most common markup language, but you may also come across other markup languages such as SVG or XML.
+
+Presenting a document to a user means converting it into a form usable by your audience. Browsers, like Firefox, Chrome, or Edge, are designed to present documents visually, for example, on a computer screen, projector, or printer.
+
+##CSS syntax
+CSS is a rule-based language — you define the rules by specifying groups of styles that should be applied to particular elements or groups of elements on your web page.
+
+For example, you can decide to have the main heading on your page to be shown as large red text. The following code shows a very simple CSS rule that would achieve the styling described above:
+
+h1 {
+  color: red;
+  font-size: 5em;
+}
+
+[Sited "What is CSS?"](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
+
+## Things I want to know more about
+
++ I would love to learn CSS3 and Javascript, adding interactive tables to websites/apps. 
++ CSS modules are nothing very interesting especial how backgroung and border are used in CSS. 
++ I would like to get more familiar with APIs to manipulating different aspects of the browser and operating system the site is running on, 
+  or manipulating data from other web sites or services.
